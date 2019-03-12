@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfc99005-b9f9-4f17-bd88-df8bec132eca" name="Default Changelist" comment="" />
+    <list default="true" id="3f40b20b-fba7-4939-b0b8-786eb46f7bc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/util.iml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,7 @@
     <option name="width" value="1060" />
     <option name="height" value="975" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -64,17 +70,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cfc99005-b9f9-4f17-bd88-df8bec132eca" name="Default Changelist" comment="" />
-      <created>1552400926663</created>
+      <changelist id="3f40b20b-fba7-4939-b0b8-786eb46f7bc1" name="Default Changelist" comment="" />
+      <created>1552402299955</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552400926663</updated>
-      <workItem from="1552400929414" duration="16000" />
+      <updated>1552402299955</updated>
+      <workItem from="1552402302690" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16000" />
+    <option name="totallyTimeSpent" value="24000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
